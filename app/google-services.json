@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220118355065",
+    "project_id": "compario-b07c4",
+    "storage_bucket": "compario-b07c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220118355065:android:7d4b259ff7d5a008d218a8",
+        "android_client_info": {
+          "package_name": "com.example.compario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220118355065-rs7kkkkmrq5iq4qfs7cna897fl8t66up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_2uXp_bWYVeCuwNtfZI5gBcv3FJ82sAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220118355065-rs7kkkkmrq5iq4qfs7cna897fl8t66up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
